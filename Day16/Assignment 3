@@ -1,3 +1,4 @@
+//factorial
 #include<stdio.h>
 main()
 {
